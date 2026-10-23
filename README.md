@@ -11,7 +11,7 @@
 No account, backend, or build step is required. The entire game runs in the browser and saves progress locally.
 
 <p align="center">
-  <a href="https://zhuanght-1201.github.io/starlit-haven/"><strong>▶ Play Starlit Haven in your browser</strong></a>
+  <a href="https://github.com/ZhuangHT-1201/starlit-haven"><strong>★ Explore Starlit Haven on GitHub</strong></a>
 </p>
 
 ![Starlit Haven title screen](screenshots/01-welcome.png)
@@ -34,7 +34,7 @@ python -m http.server 8080
 
 Then visit `http://localhost:8080`.
 
-The public browser build is available at [zhuanght-1201.github.io/starlit-haven](https://zhuanght-1201.github.io/starlit-haven/).
+GitHub Pages deployment is automated by `.github/workflows/pages.yml`. Once the first hosted deployment completes, the browser build is available at [zhuanght-1201.github.io/starlit-haven](https://zhuanght-1201.github.io/starlit-haven/).
 
 ## Features
 
