@@ -2,6 +2,10 @@
 
 > 栖星岛 · A cozy island farming and management game.
 
+[![MIT License](https://img.shields.io/github/license/ZhuangHT-1201/starlit-haven)](LICENSE)
+[![GitHub Pages](https://github.com/ZhuangHT-1201/starlit-haven/actions/workflows/pages.yml/badge.svg)](https://github.com/ZhuangHT-1201/starlit-haven/actions/workflows/pages.yml)
+[![Vanilla JavaScript](https://img.shields.io/badge/JavaScript-vanilla-f0cb85)](game.js)
+
 **Starlit Haven** is a small, single-player game about restoring a floating island one season at a time. Plant luminous crops, read the weather, spend your daily energy wisely, fulfill travelers' wishes, and invite gentle spirits to share the island with you.
 
 No account, backend, or build step is required. The entire game runs in the browser and saves progress locally.
